@@ -13,7 +13,7 @@
 # เครื่องมือที่ใช้เขียนโค้ด
 Language : Python
 Libary/Framework: Tkinter, CustomTkinter
-Design Tool : Canva\
+Design Tool : Canva
 
 
 
