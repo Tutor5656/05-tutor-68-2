@@ -13,8 +13,16 @@
 # เครื่องมือที่ใช้เขียนโค้ด
 Language : Python
 Libary/Framework: Tkinter, CustomTkinter
-Design Tool : Canva<img width="414" height="580" alt="สกรีนช็อต 2026-02-28 224248" src="https://github.com/user-attachments/assets/ff312f52-b8c2-4288-9f1d-00e28e296700" />
+Design Tool : Canva\
+
+
+
+<img width="414" height="580" alt="สกรีนช็อต 2026-02-28 224248" src="https://github.com/user-attachments/assets/ff312f52-b8c2-4288-9f1d-00e28e296700" />
+
+
 <img width="251" height="166" alt="สกรีนช็อต 2026-02-28 224255" src="https://github.com/user-attachments/assets/702d4cde-36d7-4b9a-abe7-6b09b0d2d78e" />
+
+
 
 # วิธีการใช้งาน
 ดาวน์โหลดไฟล์ GUI3.py
